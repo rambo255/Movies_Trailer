@@ -5,7 +5,7 @@ import webbrowser
 
 class Movie():
     '''this function creates the object of class Movie
-    and also stores the needed arguments in object '''
+       and also stores the needed arguments in object '''
     def __init__(self, title, storyline, poster_url, trailer):
         self.title = title
         self.storyline = storyline
