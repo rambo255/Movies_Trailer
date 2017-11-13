@@ -2,7 +2,7 @@ import fresh_tomatoes
 import media
 
 '''Here we are creating different instance
-of class Movie with filename media'''
+   of class Movie with filename media'''
 
 
 toilet = media.Movie("Toilet",
